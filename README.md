@@ -15,3 +15,12 @@ set `startX` to equal `endX` and `startY` to equal `endY`
 `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their original values.  
 5. You will need to modify `index.html` to customize your website with it's own title, header and footer. When you are happy with your program, push your finished project up to GitHub
 6. The final step is to submit the URL for your website via the "drop box" for the assignment on School Loop. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+
+Samples of Student Work
+-----------------------
+[Anderson](http://andersonnguyen1.github.io/Lightning/)     
+[Zachary](http://zachooz.github.io/Lightning/)  
+[Rebecca](http://rebeccachen1.github.io/Lightning/)  
+[Celena](http://celenac.github.io/Lightning/)  
+[Lily](http://magicallilicorn.github.io/Lightning/)  
+[Teagen](http://temucher.github.io/Lightning/) 
