@@ -7,9 +7,9 @@ One way to simulate lightning is with a random walk. In this assignment you will
 2. Click on Lightning.pde. You'll need to add some code
 At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` and `endY`. Initialize `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
 3. `void setup()` needs to set the `strokeWeight()` and `background()` of your applet
-4. `void draw()` needs to do two things: 
-  -set the `stroke()`color of the lightning bolt to some random value using `Math.random()` 
-  -a `while` loop that repeats the following until the endX is off the screen:  
+4. `void draw()` needs to do two things:  
+  -set the `stroke()`color of the lightning bolt to some random value using `Math.random()`   
+  -a `while` loop that repeats the following until the endX is off the screen:    
     1. set `endX` to `startX` plus a random integer from 0 to 9  
     2. set `endY` to `startY` plus a random integer from -9 to 9  
     3. draw a `line()` with endpoints `startX`,`startY`,`endX`,`endY`    
