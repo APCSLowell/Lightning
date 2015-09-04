@@ -27,7 +27,7 @@ Samples of Student Work
 [Winnie](http://winnie3269.github.io/Lightning/)  
 [Jessie](http://jessew927.github.io/Lightning/)  
 [Eric](http://eryup.github.io/Lightning/)  
-[Aidan](http://hakyojin.github.io/Lightning/)
+[Aidan](http://hakyojin.github.io/Lightning/)  
 [Helen](http://hezhang2.github.io/Lightning/)  
 [Yang](http://giangd.github.io/Lightning/)  
 [Ivan](http://greypoupon.github.io/Lightning/)  
