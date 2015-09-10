@@ -20,8 +20,8 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
 
 Samples of Student Work
 -----------------------
-[Kiara](http://gitrektapcs.github.io/Dice/)  
-[Charles](http://gitrektapcs.github.io/Dice/)  
+[Kiara](http://kiaragil.github.io/Lightning/)  
+[Charles](http://chadvincula.github.io/Lightning/)  
 [Raul](http://raulrosen.github.io/Lightning/)  
 [Lin](http://lin00.github.io/Lightning/)  
 [Amy](http://amhe3.github.io/Lightning/)  
