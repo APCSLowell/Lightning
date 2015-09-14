@@ -23,6 +23,7 @@ Samples of Student Work
 [Anya](http://anyacakes.github.io/Lightning/)  
 [Tiger](http://tigerrlao.github.io/Lightning/)  
 [Kiara](http://kiaragil.github.io/Lightning/)  
+[Xu Ting](http://xiutingyu.github.io/Lightning/)  
 [Edmund](http://firework999363.github.io/Lightning/)  
 [Charles](http://chadvincula.github.io/Lightning/)  
 [Raul](http://raulrosen.github.io/Lightning/)  
