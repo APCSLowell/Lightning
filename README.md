@@ -3,7 +3,7 @@ Lightning
 
 One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find the PowerPoint sides 142 to 170 of the [apjava1.pptx](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) presentation helpful.  Here are some steps to get you started:
 
-1. Fork and clone down the repository. You should now have a Lightning folder in your apjava folder. Open the Lightning folder in Sublime.
+1. Start by forking [this repository](https://github.com/APCSLowell/Lightning). You should now have a Lightning folder in your apjava folder. Open the Lightning folder in Sublime.
 2. Click on Lightning.pde. You'll need to add some code
 At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` and `endY`. Initialize `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
 3. `void setup()` needs to set the `strokeWeight()` and `background()` of your applet
