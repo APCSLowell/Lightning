@@ -25,7 +25,6 @@ Samples of Student Work
 [Kiara](http://kiaragil.github.io/Lightning/)  
 [Edward](http://edyuen.github.io/Lightning/)  
 [Ryan](http://ryanjacko.github.io/Lightning/)  
-[Miko](http://mikolajkrajewski.github.io/Dice/)  
 [Xu Ting](http://xiutingyu.github.io/Lightning/)  
 [Edmund](http://firework999363.github.io/Lightning/)  
 [Charles](http://chadvincula.github.io/Lightning/)  
