@@ -21,8 +21,12 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
 
 Samples of Student Work
 -----------------------
+[Michelle](https://michellec1998.github.io/Lightning/)   
+[Vivian](https://viviaann.github.io/Lightning/)   
 [Jenna](https://jennaralll.github.io/Lightning/)  
 [Otto](https://otschmidt.github.io/Lightning/)   
+[Lydia](https://aqua28.github.io/Lightning/)   
+[Victor](https://kingvictor.github.io/Lightning/)   
 [Andrea](https://chenandrea29.github.io/Lightning/)   
 [Nicolas](https://woonicholas.github.io/Lightning/)   
 [Kenneth](https://kenpaso.github.io/Lightning/)   
@@ -32,6 +36,7 @@ Samples of Student Work
 [Erica](https://ericamalia.github.io/Lightning/)  
 [Aaron](https://aahuangithub.github.io/Lightning/)   
 [Kendra](https://pastalover45.github.io/Lightning/)   
+[Kirby](https://krbyktl.github.io/Lightning/)   
 [Michael](https://mipsim.github.io/Lightning/)   
 [Jun](https://johyrao.github.io/Lightning/)   
 [Makoi](https://magacula1.github.io/Lightning/)   
@@ -49,6 +54,8 @@ Samples of Student Work
 [Kenny](https://kennyyu168.github.io/Lightning/)   
 [Bryan](https://bzin22.github.io/Lightning/)   
 [Andrew](https://jonathanchu33.github.io/Lightning/)   
+[Felix](https://felixzhuk.github.io/Lightning/)   
+[Steven](https://sjkchang.github.io/Lightning/)   
 [Yev](https://yevgeniybarkalov.github.io/Lightning/)   
 [Andrew](https://andrewmai123.github.io/Lightning/)   
 [Mike](https://mimonokandilos.github.io/Lightning/)   
