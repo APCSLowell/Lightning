@@ -21,6 +21,13 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
 
 Samples of Student Work
 -----------------------
+[Sophie](https://sohuang.github.io/Lightning/)   
+[Brandom](https://brandonlou.github.io/Lightning/)   
+[Amanda](https://amkallenbach.github.io/Lightning/)   
+[Darren](https://dawong15.github.io/Lightning/)   
+[Sam](https://flukemeister28.github.io/Lightning/)   
+[Maxwell](https://12maxwellho.github.io/Lightning/)   
+[Desmond](https://djmond.github.io/Lightning/)   
 [Michelle](https://michellec1998.github.io/Lightning/)   
 [Vivian](https://viviaann.github.io/Lightning/)   
 [Jenna](https://jennaralll.github.io/Lightning/)  
