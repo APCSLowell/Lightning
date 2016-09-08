@@ -24,7 +24,7 @@ Samples of Student Work
 [Gina](https://gimontarano.github.io/Lightning/)   
 [Gordon](https://gordonkong.github.io/Lightning/)   
 [Sophie](https://sohuang.github.io/Lightning/)   
-[Brandom](https://brandonlou.github.io/Lightning/)   
+[Brandon](https://brandonlou.github.io/Lightning/)   
 [Amanda](https://amkallenbach.github.io/Lightning/)  
 [Kevin](https://kekuang2.github.io/Lightning/)   
 [Robert](https://rshi159.github.io/Lightning/)   
