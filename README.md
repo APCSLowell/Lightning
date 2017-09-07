@@ -17,7 +17,7 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
     5. set `startY` equal to `endY`
 5. `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their original values.  
 5. You will need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
-6. The final step is to submit the URL for your website via the "drop box" for the assignment on School Loop. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+6. The final step is to submit the URL for your website to google classroom. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
 
 Program requirements
 -----------------------
