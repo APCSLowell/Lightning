@@ -19,6 +19,10 @@ At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` 
 5. You will need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
 6. The final step is to submit the URL for your website via the "drop box" for the assignment on School Loop. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
 
+Program requirements
+-----------------------
+Your program needs to create a random walk using `Math.random()`. Other than that, your lightning program doesn't have to work or look like any other. Have fun and be creative!
+
 Samples of Student Work
 -----------------------
 [Michelle](https://miphung.github.io/Lightning/)   
