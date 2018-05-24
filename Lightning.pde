@@ -16,7 +16,7 @@ void settings(){
 
 void setup()
 {
-  
+  size(400,300);
   strokeWeight(3.5);
   background(0);
   frameRate(frame_rate);
