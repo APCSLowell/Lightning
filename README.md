@@ -25,6 +25,9 @@ Your program needs to create a random walk using `Math.random()` for *all* rando
 
 Samples of Student Work
 -----------------------
+[Rowan](https://rowanmckereghan.github.io/Lightning/)   
+[Richard](https://riprivalov.github.io/Lightning/)   
+[Nathan](https://natran951.github.io/Lightning/)   
 [Lily](https://oulilyapjava.github.io/Lightning/)   
 [James](https://james168ma.github.io/Lightning/)   
 [Gordon](https://milkteadailo.github.io/Lightning/)   
