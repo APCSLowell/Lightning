@@ -4,7 +4,7 @@ Lightning
 One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 192 to 214 of the [apjavaProcessing](https://drive.google.com/open?id=0Bz2ZkT6qWPYTVkF4Q19aZ3dfdk0) slide presentation and the [Math.random worksheet](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) helpful.  
 
 Suggested steps to start the assignment
-=======================================
+------------------------------------------
 1. Start by forking [this repository](https://github.com/APCSLowell/Lightning). 
 2. Open the Lightning.pde file. You'll need to add some code
 At the top of the program, declare 4 `int` variables `startX`, `startY`, `endX` and `endY`. Initialize `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
