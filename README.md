@@ -27,9 +27,15 @@ The steps above are only a suggestion. Your program needs to create a random wal
 
 Samples of Student Work
 -----------------------
+[Cappillen](https://apcscap.github.io/Lightning/)   
+[Amy](https://amychang415.github.io/Lightning/)   
+[Jackson](https://jacksonjude.github.io/Lightning/)   
 [Andy](https://anli28.github.io/Lightning/)   
+[Audrey](https://chubbibunniomnomnom.github.io/Lightning/)   
 [Rowan](https://rowanmckereghan.github.io/Lightning/)   
 [Michael](https://psyduckjar.github.io/Lightning/)   
+[Celena](https://celinaye.github.io/Lightning/)   
+[Gordon](https://goyee.github.io/Lightning/)   
 [Richard](https://riprivalov.github.io/Lightning/)   
 [Nathan](https://natran951.github.io/Lightning/)   
 [Lily](https://oulilyapjava.github.io/Lightning/)   
