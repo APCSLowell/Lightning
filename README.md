@@ -32,6 +32,7 @@ Samples of Student Work
 [Henry](https://henguyen1.github.io/Lightning/)   
 [Jun](https://juwu19.github.io/Lightning/)   
 [Michael](https://michaelapcs.github.io/Lightning/)   
+[Marvin](https://malee31.github.io/Lightning/)   
 [Jessie](https://jechen30.github.io/Lightning/)   
 [Norton](https://nomvus.github.io/Lightning/)   
 [Iryne](https://irynechu.github.io/Lightning/)   
