@@ -27,6 +27,7 @@ The steps above are only a suggestion. Your program needs to create a random wal
 
 Samples of Student Work
 -----------------------
+[Jayde](https://jaydewong.github.io/Noodles/)   
 [Jennifer](https://jp4099.github.io/Lightning/)   
 [Diego](https://diegoleong.github.io/Lightning/)   
 [Brandon](https://btlsandwich.github.io/Lightning/)   
