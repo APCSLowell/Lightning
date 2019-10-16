@@ -30,6 +30,8 @@ Samples of Student Work
 [Melanie](https://metam2.github.io/Lightning/)   
 [Tommy](https://imatomster.github.io/Lightning/)   
 [Rameses](https://notcompetent.github.io/Lightning/)   
+[Ian](https://ianjazz246.github.io/Lightning/)   
+[Allister](https://allistertxu.github.io/Lightning/)   
 [Lucas](https://lucaschin.github.io/Lightning/)   
 [Kendrick](https://kendrick-lee.github.io/Lightning/)    
 [Kenneth](https://kennethtang209.github.io/Lightning/)   
