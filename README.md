@@ -27,6 +27,21 @@ The steps above are only a suggestion. Your program needs to create a random wal
 
 Samples of Student Work
 -----------------------
+[Melanie](https://metam2.github.io/Lightning/)   
+[Tommy](https://imatomster.github.io/Lightning/)   
+[Rameses](https://notcompetent.github.io/Lightning/)   
+[Lucas](https://lucaschin.github.io/Lightning/)   
+[Kendrick](https://kendrick-lee.github.io/Lightning/)    
+[Kenneth](https://kennethtang209.github.io/Lightning/)   
+[Andrew](https://anvuong3.github.io/Lightning/)   
+[Marvin](https://malee31.github.io/LightningProcessing/)   
+[Cheryl](https://cherhchen.github.io/Lightning/)   
+[Andrew](https://a431.github.io/Lightning/)   
+[Ciaran](https://cibuitrago12.github.io/Lightning/)   
+[Lance](https://callmelancelot.github.io/Lightning/)   
+[Maanav](https://gandhigang.github.io/Lightning/)   
+[Philip](https://knight2night.github.io/Lightning/)   
+[Andy](https://andy-wen1.github.io/Lightning/)   
 [Jayde](https://jaydewong.github.io/Noodles/)   
 [Albert](https://albertgiang.github.io/Lightning/)   
 [Jennifer](https://jp4099.github.io/Lightning/)   
