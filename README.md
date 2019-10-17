@@ -46,6 +46,7 @@ Samples of Student Work
 [George](https://spospicy.github.io/Lightning/)   
 [Annika](https://ahilladakis.github.io/Lightning/)   
 [Qi](https://qiyang2.github.io/Lightning/)   
+[Verena](https://verena14.github.io/Lightning/)   
 [Yanzhu](https://yanzhug.github.io/Lightning/)   
 [Claire](https://clrafferty.github.io/Lightning/)   
 [Melanie](https://metam2.github.io/Lightning/)   
