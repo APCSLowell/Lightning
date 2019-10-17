@@ -52,6 +52,7 @@ Samples of Student Work
 [Melanie](https://metam2.github.io/Lightning/)   
 [Tommy](https://imatomster.github.io/Lightning/)   
 [Ayaka](https://aychou.github.io/Lightning/)    
+[Phuoc](https://megagotnothing.github.io/Lightning/)   
 [Madeline](https://mhl343.github.io/Lightning/)   
 [Rafael](https://rafaelcenzano.github.io/Lightning/)   
 [Jaqueline](https://jacqsmei.github.io/Lightning/)   
