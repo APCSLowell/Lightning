@@ -30,7 +30,6 @@ The steps above are only a suggestion. Your program needs to use `Math.random()`
 Samples of Student Work
 -----------------------
 [Justine](https://justineorgel.github.io/Lightning/)   
-[Nolan](https://nolanalexander1.github.io/Lightning/)   
 [Jasmine](https://jasmine-c-16.github.io/Lightning/)   
 [Kai](https://kajjchang.github.io/Lightning/)   
 [Cara](https://cakuk.github.io/Lightning/)   
