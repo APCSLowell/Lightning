@@ -33,6 +33,17 @@ If your program works in Processing but not on GitHub, check [this list](https:/
 
 Samples of Student Work
 -----------------------
+[Kathy](https://kathyl1.github.io/Lightning/)   
+[Weifeng](https://apcsweguan4.github.io/Lightning/)    
+[Maya](https://mayalobo.github.io/Lightning/)   
+[Gohnshein](https://bard21.github.io/LightningProject/)   
+[Winson](https://wineson.github.io/Lightning/)   
+[Annie](https://annie-ye.github.io/Lightning/)   
+[Harry](https://harrywong3.github.io/Lightning/)   
+[Ethan](https://ethanlliu.github.io/Lightning/)   
+[Aiden](https://hotaco.github.io/Lightning/)   
+[Taylor](https://taylortsan.github.io/Lightning/)   
+[Justin](https://juyee9.github.io/Lightning/)   
 [Justine](https://justineorgel.github.io/Lightning/)   
 [Jasmine](https://jasmine-c-16.github.io/Lightning/)   
 [Kai](https://kajjchang.github.io/Lightning/)   
