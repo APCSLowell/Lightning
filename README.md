@@ -29,7 +29,7 @@ The steps above are only a suggestion. Your program needs to use `Math.random()`
 
 GitHub problems?
 ----------------
-If your program works on Processing but not on GitHub, check [this list](https://github.com/APCSLowell/WebDebugging/blob/master/README.md#help-my-program-runs-in-processing-but-not-on-github) for possible solutions. If your program still isn't working on GitHub let your instructor know.
+If your program works in Processing but not on GitHub, check [this list](https://github.com/APCSLowell/WebDebugging/blob/master/README.md#help-my-program-runs-in-processing-but-not-on-github) for possible solutions. If your program still isn't working on GitHub let your instructor know.
 
 Samples of Student Work
 -----------------------
