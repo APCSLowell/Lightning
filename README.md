@@ -9,7 +9,7 @@ Suggested steps to start the assignment
 1. Then *fork* [this repository](https://github.com/APCSLowell/Lightning) 
 2. Open the Lightning.pde file. Copy and paste the code into Processing.
 3. At the top of the program in Processing, declare 4 `int` variables `startX`, `startY`, `endX` and `endY`. Initialize `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
-3. `void setup()` needs to set the `strokeWeight()` and `background()` of your applet
+3. `void setup()` needs to set the `size()`, `strokeWeight()` and `background()` of your program
 4. `void draw()` needs to do two things:  
   -set the `stroke()`color of the lightning bolt to some random value using `Math.random()`   
   -a `while` loop that repeats the following until the `endX` is off the screen:    
