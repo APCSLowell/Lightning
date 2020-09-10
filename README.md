@@ -21,7 +21,7 @@ Suggested steps to start the assignment
 5. `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their original values. 
 5. When you are happy with the program, copy and paste it back into GitHub
 5. You will also need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
-6. The final step is to submit the URL for your website to google classroom. Don't hesitate to ask for help if your aren't sure how something is suppose to work.  You can find more specific instructions on how to submit your assignment on slides 50 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing).  
+6. The final step is to submit the URL for your website to google classroom. You can find more specific instructions on how to submit your assignment on slides 50 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing). Don't hesitate to ask for help if your aren't sure how something is suppose to work.  
 
 
 Program requirements
