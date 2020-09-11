@@ -1,7 +1,7 @@
 Lightning
 =========
 
-One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 16 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful.  
+One way to [simulate lightning is with a random walk](https://docs.google.com/presentation/d/1FVMky4RCdS__va05BmkkpeWqi83gpj458w98yif5H6A/edit?usp=sharing). In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find sides 16 to 52 of the [apjavaProcessing](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) slide presentation helpful.  
 
 Suggested steps to start the assignment
 ------------------------------------------
