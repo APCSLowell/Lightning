@@ -34,6 +34,10 @@ If your program works in Processing but not on GitHub, check [this list](https:/
 
 Samples of Student Work
 -----------------------
+[Guidong](https://3gui.github.io/Lightning/)   
+[Eustache](https://eustachewestphal.github.io/Lightning/)    
+[Cassidy](https://cawan15.github.io/Lightning/)    
+[Andrea](https://andrearobinowitz3.github.io/Lightning/)   
 [Marvin](https://machen15.github.io/Lightning/)   
 [Winson](https://wineson.github.io/Lightning/)   
 [Kathy](https://kathyl1.github.io/Lightning/)   
