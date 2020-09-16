@@ -34,6 +34,7 @@ If your program works in Processing but not on GitHub, check [this list](https:/
 
 Samples of Student Work
 -----------------------
+[Alex](https://altakamoto.github.io/Lightning/)   
 [Patrick](https://patrickhu926.github.io/Lightning/)   
 [Isabela](https://isabella1217.github.io/Lightning/)   
 [William](https://williampaik2.github.io/Lightning/)   
