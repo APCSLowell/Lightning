@@ -293,6 +293,7 @@ Samples of Student Work
 [Joselino](https://joselinodt.github.io/Lightning/)   
 [Nathan](https://naguan1.github.io/Lightning/)   
 [Munkhtushie](https://tushigitgel.github.io/Lightning/)   
+[Kyle](https://kylam1.github.io/Lightning/)   
 [Noelle](https://noellelam.github.io/Lightning/)   
 [Andy](https://andeey3.github.io/Lightning/)   
 [Audrey](https://audreylau8.github.io/Randomwalk-Gown/)   
